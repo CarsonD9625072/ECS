@@ -11,7 +11,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #DBFFD6;
+	background: #C0BDB7;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -30,14 +30,14 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #E5E5E2;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	text-align: center;
 }
 .footer {
-	background: #D9D2B2;
+	background: #B6BCBF;
 	margin: 0px;
 	float: left;
 	width: 100%;
